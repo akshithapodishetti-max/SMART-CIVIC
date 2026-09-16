@@ -139,7 +139,7 @@ The Smart Civic home page provides a clean and user-friendly interface where use
 
 Users can report civic issues by entering a short description. The system analyzes the complaint and identifies the appropriate category, department, priority level, and suggested action.
 
-![Text-Based Complaint](Images/TEXT%20DETECTED.jpeg)
+![Text-Based Complaint](IMAGES/text.jpeg)
 
 ### Image-Based Detection
 
