@@ -145,7 +145,7 @@ Users can report civic issues by entering a short description. The system analyz
 
 Users can upload an image of a civic issue, such as a pothole, garbage pile, broken street light, or water leak. The system automatically detects the issue and displays the corresponding department, priority level, and recommended action.
 
-![Image-Based Detection](Images/IMAGE%20DETECTED.jpeg)
+![Image-Based Detection](IMAGES/imagedetected.jpeg)
 ---
 ## Future Enhancements
 
