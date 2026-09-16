@@ -133,7 +133,7 @@ http://127.0.0.1:5000
 
 The Smart Civic home page provides a simple interface for users to enter a complaint, upload an image, and submit it for analysis.
 
-![Home Page](Images/home.png)
+![Home Page](IMAGES/HOME PAGE.jpeg)
 
 ### Text-Based Complaint
 
