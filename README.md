@@ -127,7 +127,27 @@ http://127.0.0.1:5000
 | Water leak image | Water Supply Department → High Priority |
 
 ---
+## Project Screenshots
 
+### Home Page
+
+The Smart Civic home page provides a simple interface for users to enter a complaint, upload an image, and submit it for analysis.
+
+![Home Page](Images/home.png)
+
+### Text-Based Complaint
+
+Users can report issues by entering a short description, such as **"Large pothole near Government High School causing traffic issues."**
+
+![Text Complaint](Images/problem-text.png)
+
+### Image-Based Detection
+
+Users can upload an image of a civic issue, and the system automatically detects the problem and displays the category, department, priority, and suggested action.
+
+![Image Detection](Images/photo-result.png)
+
+---
 ## Future Enhancements
 
 - 📍 GPS location detection
