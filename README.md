@@ -131,22 +131,21 @@ http://127.0.0.1:5000
 
 ### Home Page
 
-The Smart Civic home page provides a simple interface for users to enter a complaint, upload an image, and submit it for analysis.
+The Smart Civic home page provides a clean and user-friendly interface where users can enter a civic complaint, upload an image, and submit it for analysis.
 
-![Home Page](IMAGES/HOME PAGE.jpeg)
+![Home Page](Images/HOME%20PAGE.jpeg)
 
 ### Text-Based Complaint
 
-Users can report issues by entering a short description, such as **"Large pothole near Government High School causing traffic issues."**
+Users can report civic issues by entering a short description. The system analyzes the complaint and identifies the appropriate category, department, priority level, and suggested action.
 
-![Text Complaint](Images/problem-text.png)
+![Text-Based Complaint](Images/TEXT%20DETECTED.jpeg)
 
 ### Image-Based Detection
 
-Users can upload an image of a civic issue, and the system automatically detects the problem and displays the category, department, priority, and suggested action.
+Users can upload an image of a civic issue, such as a pothole, garbage pile, broken street light, or water leak. The system automatically detects the issue and displays the corresponding department, priority level, and recommended action.
 
-![Image Detection](Images/photo-result.png)
-
+![Image-Based Detection](Images/IMAGE%20DETECTED.jpeg)
 ---
 ## Future Enhancements
 
