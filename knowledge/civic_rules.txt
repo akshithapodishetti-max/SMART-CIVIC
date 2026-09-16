@@ -1,0 +1,24 @@
+Road Damage
+Department: Roads & Highways
+Priority: High
+Action: Repair potholes and damaged roads immediately.
+
+Garbage
+Department: Sanitation Department
+Priority: Medium
+Action: Clear overflowing garbage bins within 24 hours.
+
+Street Light
+Department: Electricity Department
+Priority: Medium
+Action: Repair non-working street lights immediately.
+
+Water Leak
+Department: Water Supply Department
+Priority: High
+Action: Fix leaking or burst water pipes immediately.
+
+General Issue
+Department: Municipal Office
+Priority: Low
+Action: Review and assign the complaint.
