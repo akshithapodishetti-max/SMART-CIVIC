@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, request, jsonify
 from sentence_transformers import SentenceTransformer
 from transformers import pipeline
@@ -84,9 +85,5 @@ def classify():
     })
 
 if __name__ == "__main__":
-    threading.Timer(
-        1,
-        lambda: webbrowser.open("http://127.0.0.1:5000")
-    ).start()
-
-app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)), debug=False)
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
